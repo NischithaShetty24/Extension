@@ -1,1 +1,2 @@
 # Extension
+Stock Flash, a browser extension for realtime stock market insights. Integrated livestock charts using Trading View and detailed financial data from Alpha Vantage. Enabled users to track, compare, and analyze stocks efficiently.Implemented features for saving and managing favorite stocks and exporting comparison data.Built using HTML, CSS, and JavaScript for a responsive and user-friendly interface. Enhanced investor decision-making with timely, accurate market information.
